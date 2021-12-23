@@ -1,0 +1,52 @@
+body {
+    background-color: #CC99FF;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.user__info, .user__avatar, .user__blog__wall {
+    background-color: #FFCC00;
+    padding: 125px;
+}
+
+.user__data {
+    display: flex;
+    margin: 20px 0 40px 0;
+}
+
+.user__avatar img {
+    width: 200px;
+    height: 250px;
+}
+
+.user__info {
+    margin-left: 30px;
+    width: 100%;
+}
+
+.user__birth__date, .user__city, .pages {
+    font-size: 20px;
+}
+.birth__label, .city__label, .pages p {
+    color: #8c6464;
+}
+
+.user__name {
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.user__birth__date {
+    padding-bottom: 15px;
+}
+
+.user__city {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #8c6464;
+}
