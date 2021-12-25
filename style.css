@@ -1,5 +1,5 @@
 body {
-    background-color: #CC99FF;
+    background-color: #FBAFFF;
     margin: 0;
     padding: 0;
 }
@@ -11,7 +11,7 @@ body {
 }
 
 .user__info, .user__avatar, .user__blog__wall {
-    background-color: #FFCC00;
+    background-color: #FFCC11;
     padding: 125px;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .user__city {
     padding-bottom: 20px;
-    border-bottom: 1px solid #8c6464;
+    border-bottom: 1px solid #8c7474;
 }
 
 .comment__label {
