@@ -11,7 +11,7 @@ body {
 }
 
 .user__info, .user__avatar, .user__blog__wall {
-    background-color: #FFCC00;
+    background-color: #FFCC11;
     padding: 125px;
 }
 
@@ -30,7 +30,7 @@ body {
     width: 100%;
 }
 
-.user__birth__date, .user__city, .pages {
+.user__birth__date, .user__city, .comment__label, .pages {
     font-size: 20px;
 }
 .birth__label, .city__label, .pages p {
@@ -48,5 +48,9 @@ body {
 
 .user__city {
     padding-bottom: 20px;
-    border-bottom: 1px solid #8c6464;
+    border-bottom: 1px solid #8c7474;
+}
+
+.comment__label {
+    color: #8c6464;
 }
